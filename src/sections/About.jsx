@@ -26,7 +26,7 @@ const About = () => {
 
                 <div className="col-span-1 xl:row-span-3">
                     <div className="grid-container">
-                        <img src="/assets/full-stack-engineer-removebg.png" alt="grid-2" className="w-full sm:h-[276px] h-fit object-contain" />
+                        <img src="/assets/grid2.png" alt="grid-2" className="w-full sm:h-[276px] h-fit object-contain" />
                         <div>
                             <p className="grid-headtext">Tech Stack</p>
                             <p className="grid-subtext"> I specialize in a variety of languages, frameworks, and tools that allow me to build robust and scalable applications</p>
