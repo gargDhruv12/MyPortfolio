@@ -51,7 +51,7 @@ const About = () => {
                         <div>
                             <p className="grid-headtext">I work remotely across most timezones</p>
                             <p className="grid-subtext">I'm available for freelance work. If you have a project that you want to get started, think you need my help with something or just fancy saying hi, then get in touch.</p>
-                            <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+                            <a href="#contact"><Button name="Contact Me" isBeam containerClass="w-full mt-10" /></a>
                         </div>
                     </div>
                 </div>

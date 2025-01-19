@@ -43,7 +43,7 @@ const Contact = () => {
     }
 
     return (
-        <section className="c-space my-20">
+        <section className="c-space my-20" id='contact'>
             <div className="relative flex items-center justify-center flex-col min-h-screen">
                 {/* Ensure the background image covers the entire container */}
                 <img
