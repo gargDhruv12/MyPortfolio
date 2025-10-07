@@ -20,11 +20,11 @@ const Footer = () => {
                     </a>
                 </div>
 
-                <div className="social-icon flex justify-center items-center w-10 h-10">
+                {/* <div className="social-icon flex justify-center items-center w-10 h-10">
                     <a href="https://www.instagram.com/dhruv_garg.512/" target="_blank">
                         <img src="/assets/instagram.svg" alt="instagram" className="w-6 h-6" />
                     </a>
-                </div>
+                </div> */}
                 <div className="social-icon flex justify-center items-center w-10 h-10">
                     <a href="https://x.com/DhruvGarg862389" target="_blank">
                         <img src="/assets/twitter.svg" alt="twitter" className="w-6 h-6" />
