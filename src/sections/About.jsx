@@ -19,7 +19,7 @@ const About = () => {
                         <img src="assets/Profile_formal.jpg" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
                         <div>
                             <p className="grid-headtext">Hi, I'm Dhruv</p>
-                            <p className="grid-subtext">I'm a full-stack developer based in India.I have honed my skills in frontend and backend development, with a focus on animated 3D websites</p>
+                            <p className="grid-subtext">I'm a full-stack developer and GenAI enthusiast, passionate about building scalable web applications, intelligent AI systems, and immersive user experiences, with strong problem-solving skills backed by competitive DSA.</p>
                         </div>
                     </div>
                 </div>
